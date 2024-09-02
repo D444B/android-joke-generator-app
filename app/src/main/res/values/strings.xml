@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Joke application</string>
+    <string name="new_joke">new_joke</string>
+    <string name="a_joke_will_appear_here">a_joke_will_appear_here</string>
+</resources>
